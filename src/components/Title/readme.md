@@ -14,6 +14,6 @@ import Title from 'components/Title'
 
 ## Examples
 ```
-<Title name={'Journal'} />
+<Title name={'banana'} />
 <Title subtitle={'Notes on life and style'} />
 ```
